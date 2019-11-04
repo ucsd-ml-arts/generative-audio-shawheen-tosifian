@@ -1,10 +1,12 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
+Shawheen Tosifian, stosifia@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
 
 ## Abstract
+
+Ideally use a GANSynth architecture to mix traditional instruments (e.g. guitar) with ambient noise such as rain or crackling fireplace...
+
 
 Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
 
