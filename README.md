@@ -5,6 +5,12 @@ Shawheen Tosifian, stosifia@ucsd.edu
 
 ## Abstract
 
+The goal for this project is to use the pre-trained NSynth model provided by Google's Magenta, called E-Z Synth, to interpolate sounds between two different sound clips. One clip would be of an ambient sound recording, such as rain outside a window or wind rushing through a forest opening, and the other would be a melodic sample from an instrument, such as a guitar lick or a piano chord progression. The intention behind the mixing of these two types of clips is to create an audio 'texture' similar to that of guitar effects pedals, where each effect is defined using a descriptor often alluding to a sound that we might be familiar with our 'everyday' experiences. An example might be that of a distortion pedal being described as 'Steel Wool Junction', referring to the distortion effect sounding like a steel wool brushing against something. By letting the neural network interpolate between these sounds, we allow it to explore textures that might not normally be available to conventional audio effects.
+
+
+
+
+
 Ideally use a GANSynth architecture to mix traditional instruments (e.g. guitar) with ambient noise such as rain or crackling fireplace...
 
 
