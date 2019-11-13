@@ -1,4 +1,4 @@
-# Project 3 Generative Audio
+# Project 2 Generative Audio
 
 Shawheen Tosifian, stosifia@ucsd.edu
 
