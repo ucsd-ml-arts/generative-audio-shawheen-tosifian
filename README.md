@@ -19,11 +19,8 @@ For a lot of the sound combinations, there wasn't much success in achieving a mi
 A future direction could be taken using a style transfer approach on spectrograms of each audio clip in the hopes that certain 'qualities' of the ambient sound can be transferred to the melodic clip
 
 
-## Model/Data
+## Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
 
 The sound clips (ambient noises and distorted guitar lick and saxophone) fed into the model were obtained from freesound.org with the clips of guitar, piano, and 808 drum kit produced/recorded using GarageBand.
 
