@@ -32,13 +32,20 @@ Briefly describe the files that are included with your repository:
 
 The sound clips (ambient noises and distorted guitar lick and saxophone) fed into the model were obtained from freesound.org with the clips of guitar, piano, and 808 drum kit produced/recorded using GarageBand.
 
+The pair of source audio files are included in the directory with their encodings and interpolation.
+
 ## Code
 
 Code used for this project can be found at:
-
+https://colab.research.google.com/drive/12F_kdZVwAxtqMztU1tREOGw-chQjaScl#scrollTo=hEAhqBo3EaEO
 
 
 ## Results
+
+Description of each directory and its contents:
+
+
+
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
 - `.wav` files or `.mp4`
