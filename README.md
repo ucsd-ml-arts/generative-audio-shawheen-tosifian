@@ -14,9 +14,9 @@ This was carried out by uploading the two sounds that I wanted to mix/interpolat
 
 I went through a lot of effects, but the ones I found most interesting are included in the repository. (Brief description of ones you used)
 
-For a lot of the sound combinations, there wasn't much success in achieving a mixing as described before between the ambient sound and melodic one. The combinations that were closest to the intended outcome were that of the underwater sound with that of the ...
+For a lot of the sound combinations, there wasn't much success in achieving a mixing as described before between the ambient sound and melodic one. The combinations that were closest to the intended outcome were that of the underwater sound, which on seemed to have a low-pass filtering effect on the audio. The interpolations were weak partly due to the encoding not being representative of the original audio, with a lot of them having harsh, distorted artifacts in them (like a broken violin).
 
-A future direction could be taken using a style transfer approach (using spectrograms)
+A future direction could be taken using a style transfer approach on spectrograms of each audio clip in the hopes that certain 'qualities' of the ambient sound can be transferred to the melodic clip
 
 
 Results:
@@ -37,9 +37,6 @@ The sound clips (ambient noises and distorted guitar lick and saxophone) fed int
 Code used for this project can be found at:
 
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
 
 ## Results
 
